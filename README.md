@@ -46,7 +46,7 @@ I enjoy turning ideas into practical applications, learning how systems work und
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 ### 👨‍💻 Languages
 
@@ -74,7 +74,7 @@ I enjoy turning ideas into practical applications, learning how systems work und
 
 ---
 
-# 🤖 AI & Emerging Technologies
+## 🤖 AI & Emerging Technologies
 
 I'm actively building my foundation in:
 
@@ -108,18 +108,30 @@ Production AI Applications 🚀
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🌐 AL-Azher IT Hub
+### 🎓 AL-Azher IT Hub — Live Educational Platform
 
-A modern bilingual web platform focused on usability, accessibility, and scalable application architecture.
+A production bilingual (Arabic RTL / English) platform for Al-Azher University IT students: video lectures, learning sources, study plans, progress tracking, and a full admin dashboard — secured with row-level security and deployed end-to-end.
 
-**Built with:**
-`React.js` `Vite` `Tailwind CSS` `Firebase` `Supabase`
+**Built with:** `React 18` `Vite` `Tailwind CSS` `Supabase` `Framer Motion` `Vitest` `Playwright`
+
+<p>
+  <a href="https://al-azher-it-hub.vercel.app"><img src="https://img.shields.io/badge/%F0%9F%9A%80%20Live%20Demo-00C7B7?style=for-the-badge" alt="Live Demo"/></a>
+  <a href="https://github.com/Abdullah-AL-Ghoul/al-azher-it-hub"><img src="https://img.shields.io/badge/%F0%9F%93%A6%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/></a>
+</p>
+
+### 🌍 Portfolio
+
+My personal portfolio website.
+
+<p>
+  <a href="https://abdullah-portfolio26.vercel.app"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20Visit%20Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+</p>
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
   <img
@@ -136,7 +148,7 @@ A modern bilingual web platform focused on usability, accessibility, and scalabl
 
 ---
 
-# 🔥 GitHub Contribution Streak
+## 🔥 GitHub Contribution Streak
 
 <p align="center">
   <img
@@ -146,15 +158,6 @@ A modern bilingual web platform focused on usability, accessibility, and scalabl
 </p>
 
 ---
-
-# 🔥 GitHub Activity
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=Abdullah-AL-Ghoul&hide_border=true"
-    alt="GitHub Contribution Streak"
-  />
-</p>
 
 <p align="center">
   <a href="https://github.com/Abdullah-AL-Ghoul?tab=repositories">
@@ -166,7 +169,7 @@ A modern bilingual web platform focused on usability, accessibility, and scalabl
 
 
 
-# 📈 Currently Learning
+## 📈 Currently Learning
 
 ```text
 Python                ███████████████░░░
@@ -181,7 +184,7 @@ LLMs & GenAI           ██████░░░░░░░░░░░░
 
 ---
 
-# 🎯 2026 Goals
+## 🎯 2026 Goals
 
 * 🚀 Build production-quality full-stack applications
 * 🤖 Strengthen AI and Machine Learning fundamentals
@@ -193,7 +196,7 @@ LLMs & GenAI           ██████░░░░░░░░░░░░
 
 ---
 
-# 🏆 Certifications & Learning
+## 🏆 Certifications & Learning
 
 Currently expanding my knowledge through:
 
@@ -205,17 +208,20 @@ Currently expanding my knowledge through:
 
 ---
 
-# 🤝 Connect With Me
+## 🤝 Connect With Me
 
 <p align="center">
   <a href="https://github.com/Abdullah-AL-Ghoul">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/abdullah-al-ghoul-a254763a6/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <a href="https://abdullah-portfolio26.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:abdallhalghoul200@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 

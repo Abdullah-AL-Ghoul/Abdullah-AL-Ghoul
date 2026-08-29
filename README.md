@@ -147,6 +147,24 @@ A modern bilingual web platform focused on usability, accessibility, and scalabl
 
 ---
 
+# 🔥 GitHub Activity
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=Abdullah-AL-Ghoul&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Abdullah-AL-Ghoul?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
+  </a>
+</p>
+
+---
+
+
 
 # 📈 Currently Learning
 
